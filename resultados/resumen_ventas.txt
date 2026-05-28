@@ -1,0 +1,8 @@
+RESUMEN DE ANALISIS DE VENTAS
+========================================
+Ventas totales: $21,300.00
+Producto mas vendido: Producto C
+
+Ventas por mes:
+  2024-01: $9,900.00
+  2024-02: $11,400.00

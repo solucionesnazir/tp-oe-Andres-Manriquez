@@ -1,0 +1,11 @@
+id,sales_date,product,sales_amount
+1,2024-01-01,Producto A,1500
+2,2024-01-02,Producto B,2300
+3,2024-01-03,Producto A,1200
+4,2024-01-04,Producto C,3100
+5,2024-01-05,Producto B,1800
+6,2024-02-01,Producto A,2200
+7,2024-02-02,Producto C,2900
+8,2024-02-03,Producto B,1700
+9,2024-02-04,Producto A,2500
+10,2024-02-05,Producto C,2100
