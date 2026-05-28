@@ -19,3 +19,6 @@ Ventas simuladas de productos (10 registros)
 ## Como ejecutar
 pip install pandas matplotlib
 python scripts/analisis_ventas.py
+
+## Version
+Este proyecto fue desarrollado para el TP de Organizacion Empresarial.
