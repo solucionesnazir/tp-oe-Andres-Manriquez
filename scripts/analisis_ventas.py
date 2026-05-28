@@ -53,3 +53,5 @@ with open('resultados/resumen_ventas.txt', 'w') as out:
         out.write(f"  {mes}: ${venta:,.2f}\n")
 
 print("\n🎉 ANALISIS COMPLETADO CON EXITO")
+
+# Fin del script
